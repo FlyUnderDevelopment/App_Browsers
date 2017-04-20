@@ -54,7 +54,7 @@ Within your action you can access the updated browser/platform information by ad
 
 ## License
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
+Licensed under the Apache License, Version 2.0 (the "License"). You may obtain a copy of the License in the LICENSE file, or at:
 
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
