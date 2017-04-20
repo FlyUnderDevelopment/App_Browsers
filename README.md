@@ -1,6 +1,26 @@
 ﻿# App_Browsers
 
-A regularly updated collection of App\_Browsers files for more accurate identification of User Agents/Web Browsers and Platforms/OS name and version information with ASP.NET 4+. These App\_Browsers files extend the existing .NET HttpBrowserCapabilities information to give a slightly more detailed name and version number. 
+A regularly updated collection of App\_Browsers configuration files for more accurate identification of User Agents/Web Browsers and Platforms/OS name and version information with ASP.NET 4+. These App\_Browsers files extend the existing .NET HttpBrowserCapabilities information to give a slightly more "user-friendly" name and version number. 
+
+## Example Results
+
+Browser Examples:
+
+| Browser Used            | HttpBrowserCapabilities Default Value | Corrected Value w/ App_Browsers |
+|-------------------------|---------------------------------------|---------------------------------|
+| Microsoft Edge          | `Chrome`                              | `Edge`                          |
+| Seamonkey               | `Firefox`                             | `Seamonkey`                     |
+| Maxthon                 | `Chrome`                              | `Maxthon`                       |
+
+
+Platform Examples: 
+
+| Platform Used           | HttpBrowserCapabilities Default Value | Corrected Value w/ App_Browsers |
+|-------------------------|---------------------------------------|---------------------------------|
+| Windows 10              | WinNT 10.0                            | Windows 10                      |
+| Windows 8.1             | WinNT 6.3                             | Windows 8.1                     |
+| Windows Vista           | WinNT 6.0                             | Windows Vista                   |
+| Windows XP Professional | WinNT 5.2                             | Windows XP Pro                  |
 
 ## Installation
 
