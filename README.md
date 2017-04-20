@@ -51,7 +51,7 @@ Within your action you can access the updated browser/platform information by ad
     Debug.WriteLine("Platform: " + _browser.Platform);
 ```
 
-## Additional Browser Identification Added
+## Browser Identification Added
 
 | Browser          | Version(s)                          | Issue          |
 |------------------|-------------------------------------|----------------|
@@ -59,7 +59,7 @@ Within your action you can access the updated browser/platform information by ad
 | Maxthon          |                             Current |              - |
 | Seamonkey        |                             Current |              - |
 
-## Additional Platform Identification Added
+## Platform Identification Added
 
 | Platform         | Version(s)                          | Issue          |
 |------------------|-------------------------------------|----------------|
