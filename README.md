@@ -6,21 +6,21 @@ A regularly updated collection of App\_Browsers configuration files for more acc
 
 Browser Examples:
 
-| Browser Used            | HttpBrowserCapabilities Default Value | Corrected Value w/ App_Browsers |
-|-------------------------|---------------------------------------|---------------------------------|
-| Microsoft Edge          | `Chrome`                              | `Edge`                          |
-| Seamonkey               | `Firefox`                             | `Seamonkey`                     |
-| Maxthon                 | `Chrome`                              | `Maxthon`                       |
+| Browser Used            | HttpBrowserCapabilities Reported Browser | Corrected Value w/ App_Browsers |
+|-------------------------|------------------------------------------|---------------------------------|
+| Microsoft Edge          | `Chrome`                                 | `Edge`                          |
+| Seamonkey               | `Firefox`                                | `Seamonkey`                     |
+| Maxthon                 | `Chrome`                                 | `Maxthon`                       |
 
 
 Platform Examples: 
 
-| Platform Used           | HttpBrowserCapabilities Default Value | Corrected Value w/ App_Browsers |
-|-------------------------|---------------------------------------|---------------------------------|
-| Windows 10              | WinNT 10.0                            | Windows 10                      |
-| Windows 8.1             | WinNT 6.3                             | Windows 8.1                     |
-| Windows Vista           | WinNT 6.0                             | Windows Vista                   |
-| Windows XP Professional | WinNT 5.2                             | Windows XP Pro                  |
+| Platform Used           | HttpBrowserCapabilities Reported Platform | Corrected Value w/ App_Browsers |
+|-------------------------|-------------------------------------------|---------------------------------|
+| Windows 10              | WinNT 10.0                                | Windows 10                      |
+| Windows 8.1             | WinNT 6.3                                 | Windows 8.1                     |
+| Windows Vista           | WinNT 6.0                                 | Windows Vista                   |
+| Windows XP Professional | WinNT 5.2                                 | Windows XP Pro                  |
 
 ## Installation
 
