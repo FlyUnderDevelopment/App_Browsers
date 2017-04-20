@@ -1,0 +1,16 @@
+﻿<browsers>
+  <browser id="SeaMonkey" parentID="Firefox3Plus">
+    <identification>
+      <userAgent match="SeaMonkey/(?'version'(?'major'\d+)(\.(?'minor'\d+)?)\w*)" />
+    </identification>
+
+    <capabilities>
+      <capability name="browser"                         value="SeaMonkey" />
+      <capability name="majorversion"                    value="${major}" />
+      <capability name="minorversion"                    value="${minor}" />
+      <capability name="type"                            value="SeaMonkey${major}" />
+      <capability name="version"                         value="${version}" />
+    </capabilities>
+
+  </browser>
+</browsers>

@@ -1,0 +1,64 @@
+﻿<browsers>
+  <gateway id="PlatformWinXP" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 5\.1" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows XP" />
+    </capabilities>
+  </gateway>
+  
+  <gateway id="PlatformWinXPpro" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 5\.2" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows XP Pro" />
+    </capabilities>
+  </gateway>
+  
+  <gateway id="PlatformWinVista" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 6\.0" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows Vista" />
+    </capabilities>
+  </gateway>
+
+  <gateway id="PlatformWin7" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 6\.1" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows 7" />
+    </capabilities>
+  </gateway>
+
+  <gateway id="PlatformWin8" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 6\.2" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows 8" />
+    </capabilities>
+  </gateway>
+
+  <gateway id="PlatformWin81" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 6\.3" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows 8.1" />
+    </capabilities>
+  </gateway>
+
+  <gateway id="PlatformWin10" parentID="PlatformWinnt">
+    <identification>
+      <userAgent match="Windows NT 10\.0" />
+    </identification>
+    <capabilities>
+      <capability name="platform" value="Windows 10" />
+    </capabilities>
+  </gateway>
+</browsers>

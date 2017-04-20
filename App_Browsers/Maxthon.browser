@@ -1,0 +1,16 @@
+﻿<browsers>
+  <browser id="Maxthon" parentID="Chrome">
+    <identification>
+      <userAgent match="Maxthon/(?'version'(?'major'\d+)(\.(?'minor'\d+)?)\w*)" />
+    </identification>
+
+    <capabilities>
+      <capability name="browser"                         value="Maxthon" />
+      <capability name="majorversion"                    value="${major}" />
+      <capability name="minorversion"                    value="${minor}" />
+      <capability name="type"                            value="Maxthon${major}" />
+      <capability name="version"                         value="${version}" />
+    </capabilities>
+
+  </browser>
+</browsers>
