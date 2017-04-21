@@ -17,10 +17,10 @@ Platform Examples:
 
 | Platform Used           | HttpBrowserCapabilities Reported Platform | Corrected Value w/ App_Browsers |
 |-------------------------|-------------------------------------------|---------------------------------|
-| Windows 10              | WinNT 10.0                                | Windows 10                      |
-| Windows 8.1             | WinNT 6.3                                 | Windows 8.1                     |
-| Windows Vista           | WinNT 6.0                                 | Windows Vista                   |
-| Windows XP Professional | WinNT 5.2                                 | Windows XP Pro                  |
+| Windows 10              | `WinNT 10.0`                              | `Windows 10`                    |
+| Windows 8.1             | `WinNT 6.3`                               | `Windows 8.1`                   |
+| Windows Vista           | `WinNT 6.0`                               | `Windows Vista`                 |
+| Windows XP Professional | `WinNT 5.2`                               | `Windows XP Pro`                |
 
 ## Installation
 
