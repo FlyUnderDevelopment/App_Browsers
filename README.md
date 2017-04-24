@@ -1,4 +1,4 @@
-﻿# App_Browsers
+﻿# App_Browsers [Deprecated]
 
 **Note:** This repository has been deprecated in favor of [uap-csharp](https://github.com/ua-parser/uap-csharp)
 
