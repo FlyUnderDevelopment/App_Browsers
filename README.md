@@ -1,6 +1,6 @@
-﻿# App_Browsers [Deprecated]
+﻿# App_Browsers [Deprecated Repository]
 
-**Note:** This repository has been deprecated in favor of [uap-csharp](https://github.com/ua-parser/uap-csharp)
+**Note: This repository has been deprecated in favor of [uap-csharp](https://github.com/ua-parser/uap-csharp), but the repository has been left available for others seeking a starting point for their own custom App_Browser configuration development.**
 
 A collection of App\_Browsers configuration files for more accurate identification of User Agents/Web Browsers and Platforms/OS name and version information with ASP.NET 4+. These App\_Browsers files extend the existing .NET HttpBrowserCapabilities information to give a slightly more "user-friendly" name and version number. 
 
